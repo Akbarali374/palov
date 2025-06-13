@@ -189,8 +189,18 @@ nav .container .gap ul li:hover {
 footer .container{
   width: 1200px;
 }
-footer .container .rasmcha {
-  width: 100%;
-  margin-top: 100px;
-
+footer .container .foater {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+  background-color: #ffefe6;
+  width: 1440px;
+  height: 473px;
+  margin-top: 70px;
+  border-radius: 30px;
+ 
+}
+footer .container .foater h1{
+  color: #ff7b2b;
 }
